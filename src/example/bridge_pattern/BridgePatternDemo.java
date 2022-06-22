@@ -1,4 +1,4 @@
-package example.bridge_pattern;
+ï»¿package example.bridge_pattern;
 
 /**
  * @Author ×£Ó¢Ì¨Õ¨ÓÍÌõ
